@@ -3,7 +3,7 @@
 
 Learn about Vision-language models, Vision-language encoders and various computer vision applications:
 
-The workshop [slides]() to follow.
+The workshop [slides](https://drive.google.com/drive/folders/1AUInXCb7sSd1NXejq39CxHngnUqBk9cr?usp=sharing) to follow.
 
 ## Preparation
 * Follow the instructions to [setup](./tasks/0.prep.md) your environment for the workshop.
